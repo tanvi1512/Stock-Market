@@ -1,4 +1,4 @@
- 📈 Stock Price Direction Predictor (ML + Streamlit)
+ 📈**Stock Price Direction Predictor (ML + Streamlit)**
 
 A machine learning-based web application that predicts whether a stock's price will go **UP 📈 or DOWN 📉** the next trading day, along with real-time stock search and visualization.
 
@@ -16,7 +16,7 @@ A machine learning-based web application that predicts whether a stock's price w
 
 ---
 
-Machine Learning Model
+**Machine Learning Model**
 
 - Algorithm: **Logistic Regression**
 - Type: **Classification**
@@ -25,7 +25,7 @@ Machine Learning Model
   - `0 → DOWN`
 ---
 
-How It Works
+**How It Works**
 
 1. User selects or searches a stock
 2. Data is fetched using `yfinance`
@@ -40,7 +40,7 @@ How It Works
 
 ---
 
- Formula Used
+**Formula Used**
 
 Daily percentage change is calculated as:
 
@@ -49,7 +49,7 @@ Daily percentage change is calculated as:
 
 ---
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 - Python 🐍
 - Streamlit 
