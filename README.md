@@ -6,13 +6,13 @@ A machine learning-based web application that predicts whether a stock's price w
 
  **Features**
 
-- *Search any stock* using API (Finnhub)
-- *Dropdown of popular stocks*
-- *Stock price trend visualization* (Red/Green)
-- *Daily % change highlighted*
-- *ML-based prediction (UP / DOWN)*
-- *Dark themed professional UI*
-- *Fast and interactive Streamlit app
+- Search any stock* using API (Finnhub)
+- Dropdown of popular stocks
+- Stock price trend visualization (Red/Green)
+- Daily % change highlighted
+- ML-based prediction (UP / DOWN)
+- Dark themed professional UI
+- Fast and interactive Streamlit app
 
 ---
 
