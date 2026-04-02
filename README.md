@@ -6,7 +6,7 @@ A machine learning-based web application that predicts whether a stock's price w
 
  **Features**
 
-- Search any stock* using API (Finnhub)
+- Search any stock using API (Finnhub)
 - Dropdown of popular stocks
 - Stock price trend visualization (Red/Green)
 - Daily % change highlighted
