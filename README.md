@@ -1,22 +1,22 @@
-# 📈 Stock Price Direction Predictor (ML + Streamlit)
+ 📈 Stock Price Direction Predictor (ML + Streamlit)
 
 A machine learning-based web application that predicts whether a stock's price will go **UP 📈 or DOWN 📉** the next trading day, along with real-time stock search and visualization.
 
 ---
 
-## 🚀 Features
+## Features
 
 - 🔍 **Search any stock** using API (Finnhub)
 - 📊 **Dropdown of popular stocks**
 - 📈 **Stock price trend visualization** (Red/Green)
-- 💹 **Daily % change highlighted**
+- 💹 *Daily % change highlighted**
 - 🧠 **ML-based prediction (UP / DOWN)**
 - 🌙 **Dark themed professional UI**
 - ⚡ Fast and interactive Streamlit app
 
 ---
 
-## 🧠 Machine Learning Model
+# Machine Learning Model
 
 - Algorithm: **Logistic Regression**
 - Type: **Classification**
@@ -52,7 +52,7 @@ Daily percentage change is calculated as:
 ## 🛠️ Tech Stack
 
 - Python 🐍
-- Streamlit 🎨
+- Streamlit 
 - Scikit-learn 🤖
 - yFinance 📊
 - Finnhub API 🔍
