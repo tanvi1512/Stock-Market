@@ -4,19 +4,19 @@ A machine learning-based web application that predicts whether a stock's price w
 
 ---
 
-## Features
+ Features
 
-- 🔍 **Search any stock** using API (Finnhub)
-- 📊 **Dropdown of popular stocks**
-- 📈 **Stock price trend visualization** (Red/Green)
-- 💹 *Daily % change highlighted**
-- 🧠 **ML-based prediction (UP / DOWN)**
-- 🌙 **Dark themed professional UI**
-- ⚡ Fast and interactive Streamlit app
+- 🔍 *Search any stock* using API (Finnhub)
+- 📊 *Dropdown of popular stocks*
+- 📈 *Stock price trend visualization* (Red/Green)
+- 💹 *Daily % change highlighted*
+- 🧠 *ML-based prediction (UP / DOWN)*
+- 🌙 *Dark themed professional UI*
+- ⚡ *Fast and interactive Streamlit app
 
 ---
 
-# Machine Learning Model
+Machine Learning Model
 
 - Algorithm: **Logistic Regression**
 - Type: **Classification**
@@ -25,7 +25,7 @@ A machine learning-based web application that predicts whether a stock's price w
   - `0 → DOWN`
 ---
 
-## 📊 How It Works
+How It Works
 
 1. User selects or searches a stock
 2. Data is fetched using `yfinance`
@@ -40,7 +40,7 @@ A machine learning-based web application that predicts whether a stock's price w
 
 ---
 
-## 📐 Formula Used
+ Formula Used
 
 Daily percentage change is calculated as:
 
@@ -49,7 +49,7 @@ Daily percentage change is calculated as:
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 - Python 🐍
 - Streamlit 
