@@ -4,7 +4,7 @@ A machine learning-based web application that predicts whether a stock's price w
 
 ---
 
- Features
+ **Features**
 
 - 🔍 *Search any stock* using API (Finnhub)
 - 📊 *Dropdown of popular stocks*
